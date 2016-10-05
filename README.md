@@ -5,3 +5,6 @@
 
 注意：
 中间件要定义在路由前
+
+安装 
+npm install expressingfounder
